@@ -25,11 +25,21 @@
 
   <h1>👨‍🔬GITHUB STATS</h1>
 
+  <br>
+  
   ![Deok-beom's GitHub stats](https://github-readme-stats.vercel.app/api?username=deok-beom&show_icons=true&theme=tokyonight)
 
+  <br>
+  
+  <h1>✍️BAEK/<JOON> LEVEL </h1>
+  
+  <br>
+    
+  ![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=baek940dog)](https://solved.ac/baek940dog)
+  
 </div>
 
-<!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=baek940dog)](https://solved.ac/baek940dog) -->
+
 
 <!--
 **deok-beom/deok-beom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
