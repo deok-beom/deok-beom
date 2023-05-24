@@ -31,7 +31,7 @@
 
   <br>
   
-  <h1>✍️BAEK///<JOON/> LEVEL </h1>
+  <h1>✍️BAEKJOON LEVEL </h1>
   
   <br>
     
