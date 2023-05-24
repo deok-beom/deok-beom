@@ -31,11 +31,11 @@
 
   <br>
   
-  <h1>✍️BAEK/<JOON> LEVEL </h1>
+  <h1>✍️BAEK\/\<JOON\> LEVEL </h1>
   
   <br>
     
-  ![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=baek940dog)](https://solved.ac/baek940dog)
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=baek940dog)](https://solved.ac/baek940dog)
   
 </div>
 
