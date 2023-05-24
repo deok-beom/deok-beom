@@ -29,7 +29,7 @@
 
 </div>
 
-<!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=백준아이디)](https://solved.ac/백준아이디) -->
+<!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=baek940dog)](https://solved.ac/baek940dog) -->
 
 <!--
 **deok-beom/deok-beom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
