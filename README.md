@@ -4,6 +4,8 @@
   - 🌱 Junior Server Developer 
 </div>
 
+<br>
+
 <div align=center> <h1>🔧SKILLS</h1> </div>
 <div align=center> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
@@ -20,11 +22,11 @@
   <br>
 </div>
 
+<br>
+
 <div align=center> <h1>👨‍🔬GITHUB STATS</h1> </div>
 
-<div align=center> 
-  ![Deok-beom's GitHub stats](https://github-readme-stats.vercel.app/api?username=deok-beom&show_icons=true&theme=cobalt)
-</div>
+![Deok-beom's GitHub stats](https://github-readme-stats.vercel.app/api?username=deok-beom&show_icons=true&theme=cobalt)
 
 <!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=백준아이디)](https://solved.ac/백준아이디) -->
 
