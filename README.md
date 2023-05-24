@@ -1,13 +1,12 @@
-
 <div align=center> 
+  
   <h1> Hi </h1>
   - 🌱 Junior Server Developer 
-</div>
 
-<br>
+  <br>
 
-<div align=center> <h1>🔧SKILLS</h1> </div>
-<div align=center> 
+  <h1>🔧SKILLS</h1>
+
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
   <br>
@@ -20,14 +19,15 @@
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
   <br>
+
+
+  <br>
+
+  <h1>👨‍🔬GITHUB STATS</h1>
+
+  [![Deok-beom's GitHub stats](https://github-readme-stats.vercel.app/api?username=deok-beom&show_icons=true&theme=cobalt)
+
 </div>
-
-<br>
-
-<div align=center> <h1>👨‍🔬GITHUB STATS</h1> </div>
-
-<center> ![Deok-beom's GitHub stats](https://github-readme-stats.vercel.app/api?username=deok-beom&show_icons=true&theme=cobalt) </center>
-
 
 <!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=백준아이디)](https://solved.ac/백준아이디) -->
 
