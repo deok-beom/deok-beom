@@ -25,7 +25,7 @@
 
   <h1>👨‍🔬GITHUB STATS</h1>
 
-  [![Deok-beom's GitHub stats](https://github-readme-stats.vercel.app/api?username=deok-beom&show_icons=true&theme=cobalt)
+  ![Deok-beom's GitHub stats](https://github-readme-stats.vercel.app/api?username=deok-beom&show_icons=true&theme=cobalt)
 
 </div>
 
