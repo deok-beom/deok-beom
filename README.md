@@ -26,7 +26,8 @@
 
 <div align=center> <h1>👨‍🔬GITHUB STATS</h1> </div>
 
-![Deok-beom's GitHub stats](https://github-readme-stats.vercel.app/api?username=deok-beom&show_icons=true&theme=cobalt)
+<center> ![Deok-beom's GitHub stats](https://github-readme-stats.vercel.app/api?username=deok-beom&show_icons=true&theme=cobalt) </center>
+
 
 <!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=백준아이디)](https://solved.ac/백준아이디) -->
 
