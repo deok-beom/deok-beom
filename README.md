@@ -35,7 +35,7 @@
   
   <br>
     
-  [Solved.ac Profile](https://solved.ac/baek940dog)
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=baek940dog)](https://solved.ac/baek940dog/)
   
 </div>
 
