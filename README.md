@@ -1,7 +1,8 @@
 <div align=center> 
   
-  <h1> Hi </h1>
-  - 🌱 Junior Server Developer 
+  <h1> BAEK SEUNBEOM </h1>
+  🌱 Junior Server Developer
+  mail: baek940dog@gmail.com
 
   <br>
 
