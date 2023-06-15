@@ -2,6 +2,7 @@
   
   <h1> BAEK SEUNBEOM </h1>
   🌱 Junior Server Developer
+  <br>
   mail: baek940dog@gmail.com
 
   <br>
