@@ -4,6 +4,7 @@
   🌱 Junior Server Developer
   <br>
   📧 Mail: baek940dog@gmail.com
+  <br>
   🏠 Blog: https://velog.io/@baek940dog
 
   <br>
