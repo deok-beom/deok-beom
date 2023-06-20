@@ -3,7 +3,8 @@
   <h1> BAEK SEUNBEOM </h1>
   🌱 Junior Server Developer
   <br>
-  mail: baek940dog@gmail.com
+  📧 Mail: baek940dog@gmail.com
+  🏠 Blog: https://velog.io/@baek940dog
 
   <br>
 
